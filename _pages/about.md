@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at S Lab as a research scientist now, leading the neuromorphic computing team and doing some fundamental neuromorphic computing-related research and engineering project. We are hiring researchers, engineers, and interns to work on neuromorphic computing, network compression, object detection, SLAM, path navigation and robtics. If interested, feel free to email me at yfguo@pku.edu.cn.
+我是复旦大学的一名在读博士生👨‍🎓。我来自于河北，高中毕业于衡水中学。毕业🎓后，有幸进入到电子科技大学（成都的那个🐼🥘🌨） 数学物理基础科学实验班 学习，并在成都与女朋友👩‍🎓💏🍀度过了四年的时光（感恩成电，遇见成都，并不存在秀恩爱）。
 
-My research interest includes computer vision and computational mechanics. I have published more than 10 papers at the top international AI conferences and Mathematics & Mechanics journals.
+在复旦大学，我的主要的研究方向为类脑人工智能，同时也对目标识别以及其他人工智能相关的领域感兴趣。目前的研究方向中，涉及到了很多和脉冲神经网络（Spiking Neural Network）、竞争学习（Competitive Learning）、计算神经科学等相关的知识。并且，现在我的主要研究聚焦于无监督学习中。
+
+我的爱好是各种球类运动⛹️‍🏀🏓🏸，最近也比较喜欢游泳🏊‍♀️🏊。
+
+如果大家感兴趣，请随时和我联系。或者更多的信息可以通过邮件📧 或者 知乎（主页zhihu）进行交流。
+
+"文化的最终目标，是在人世间普及爱和善良。"
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
