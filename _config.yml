@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yufei Guo"
-description              : "Research scientist in X Lab. Graduating from Peking University. Focusing on computer vision and computational mechanics."
-repository               : "yfguo91/yfguo91.github.io"
+title                    : "Sijia Lu"
+description              : "PhD student in Fudan University. Graduating from UESTC. Focusing on Brain Inspired Artificial Intellighence."
+repository               : "SijiaLu-Leo/SijiaLu-Leo.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yufei Guo (郭宇飞)"
+  name             : "Sijia Lu (卢思佳)"
   avatar           : "images/me.png"
   bio              : "Doctor"
   location         : "Beijing, China"
