@@ -22,20 +22,20 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sijia Lu (卢思佳)"
-  avatar           : "images/me.png"
+  avatar           : "images/pic.png"
   bio              : "Doctor"
-  location         : "Beijing, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yfguo@pku.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "lusj18@fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.zhihu.com/people/Leo_lsj"
   foursquare       :
   github           : # e.g., "github username"
   google_plus      :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
