@@ -17,25 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是复旦大学的一名在读博士生👨‍🎓。高中毕业于衡水中学。毕业🎓后，有幸进入到电子科技大学（成都的那个🐼🥘🌨） 数学物理基础科学实验班学习，并在成都与女朋友👩‍🎓💏🍀度过了四年的时光（感恩成电，遇见成都，并不存在秀恩爱）。
+<!-- 我是复旦大学的一名在读博士生👨‍🎓。高中毕业于衡水中学。毕业🎓后，有幸进入到电子科技大学（成都的那个🐼🥘🌨） 数学物理基础科学实验班学习，并在成都与女朋友👩‍🎓💏🍀度过了四年的时光（感恩成电，遇见成都，并不存在秀恩爱）。
 
 在博士期间，我的主要的研究方向为**类脑人工智能**，同时也对目标识别以及其他人工智能相关的领域感兴趣。目前的研究方向中，涉及到**脉冲神经网络（Spiking Neural Network）**、**竞争学习（Competitive Learning）**、**计算神经科学**等相关的知识。并且，现在我的主要研究聚焦于**无监督学习**中。
 
 我的爱好是各种球类运动⛹️‍🏀🏓🏸，最近也比较喜欢游泳🏊‍♀️🏊。
 
-文化的最终目标，是在人世间普及爱和善良。
+文化的最终目标，是在人世间普及爱和善良。 -->
+
+I am a PhD student 👨‍🎓 at Fudan University. After high school, I was fortunate to enter the UESTC (University of Electronic Science and Technology of China, the one in Chengdu 🐼🥘🌨) to study in the experimental class of basic science in mathematics and physics, and spent four years in Chengdu with my girlfriend 👩‍🎓💏🍀.
+
+During my doctoral period, my main research direction was **Brain-like Artificial Intelligence**, and I am interested in object recognition and other artificial intelligence-related fields. The current research direction involves **Spiking Neural Network**, **Competitive Learning**, **Computational Neuroscience** and other related knowledge. And, now my main research focuses on **unsupervised learning**.
+
+My hobbies are various ball games ⛹️‍🏀🏓🏸, and recently I also like swimming 🏊‍♀️🏊.
+
+I believe, the ultimate goal of knowledge is to spread love and kindness in the world.
+
 <!--
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉 One first-authored papers for spiking neural network is accepted by NeurIPS 2022.
-- *2022.09*: &nbsp;🎉 I get the support by national natural science foundation of China 2022.
-- *2022.07*: &nbsp;🎉 Two first-authored papers for spiking neural network are accepted by ECCV 2022.
-- *2022.04*: &nbsp;🎉 One first-authored paper for spiking neural network is accepted by CVPR 2022. 
-- *2021.09*: &nbsp;🎉 One first-authored paper about mesh smoothing based on neural network is accepted by Applied Mathematical Modelling Journal.
-- *2021.09*: &nbsp;🎉 One co-first-authored paper for spiking neural network is accepted by NeurIPS 2021. 
-- *2020.07*: &nbsp;🎉 I got my PhD from Peking University.
+- *2022.03*: &nbsp;🎉 One first-authored paper about equivalence between Linear LIF and ReLU-AN model is accepted by Frontier in neuroscience.
+- *2018.09*: &nbsp;🎉 I entered Fudan University to study for a Ph.D.
+- *2018.07*: &nbsp;🎉 I got my Bachelor of Science degree from UESTC.
 
 # 📝 Publications 
 
@@ -53,18 +58,18 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/imloss.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/theequivalenceofCLIF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IM-Loss: Information Maximization Loss for Spiking Neural Networks]()
+[Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks]()
 
-**Yufei Guo**\*, Yuanpei Chen\*, Liwen Zhang, Xiaode Liu, YingLei Wang, Xuhui Huang, Zhe Ma
+**Sijia Lu**\*, Feng Xu\*
   
-- We design a novel loss, IM-Loss, which can directly maximize the information expressiveness of an SNN, and introduce the ESG method for training SNN in a more appropriate way by incorporating a dynamically changing coefficient into a differentiable asymptotic function.
+- We proposed a mapping relationship between the Linear LIF model and ReLU-AN model, bridged the Gap between SNNs and DNNs.
 </div>
 </div>
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -109,7 +114,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
   
 - We propose a new family of Differentiable Spike (Dspike) functions that can adaptively evolve during training to find the optimal shape and smoothness for gradient estimation for spiking neural networks. 
 </div>
-</div>
+</div> -->
 
 ## 🛠️ Computational mechanics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics 2022</div><img src='images/smoothing.PNG' alt="sym" width="100%"></div></div>
