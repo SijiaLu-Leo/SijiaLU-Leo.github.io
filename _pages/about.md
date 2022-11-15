@@ -58,7 +58,7 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/theequivalenceofCLIF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience</div><img src='images/theequivalenceofCLIF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks]()
@@ -158,8 +158,8 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2014.10* China National Scholarship.  
 
 # 📖 Educations
-- *2015.09 - 2020.07*, Doctor, Peking University, Beijing. 
-- *2011.09 - 2015.06*, Undergraduate, Beijing Institute of Technology, Beijing. 
+- *2018.09 - Now*, Doctor, Fudan University, Shanghai. 
+- *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu. 
 
 # 💻 Academic Services
 - **Reviewer** of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
