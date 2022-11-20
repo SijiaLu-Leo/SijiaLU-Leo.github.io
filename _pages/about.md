@@ -69,6 +69,17 @@ I have published more than 100 papers at the top international AI conferences wi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACES-2022</div><img src='images/weights_visulization_with_step-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A brain-inspired unsupervised learning algorithm for SAR Target Classification]()
+
+**Sijia Lu**\*, Feng Xu\*
+  
+Inspired by STDP, this paper presents a Phase-dependent plasticity (PDP) unsupervised learning algorithm. Combined with phase information, this method can introduce STDP into the ANNs. Our method can achieve a classification accuracy of 98.47\% on the MSTAR dataset. PDP unsupervised algorithm is a practical attempt to combine ANNs with Spike Neural Networks (SNNs).
+</div>
+</div>
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/reloss.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
