@@ -126,7 +126,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - We propose a new family of Differentiable Spike (Dspike) functions that can adaptively evolve during training to find the optimal shape and smoothness for gradient estimation for spiking neural networks. 
 </div>
 </div> -->
-
+<!-- 
 ## 🛠️ Computational mechanics
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Mechanics 2022</div><img src='images/smoothing.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,21 +157,19 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - [Regular Position-Oriented Method for Mesh Smoothing](https://link.springer.com/article/10.1007/s10338-020-00201-z), Yongqing Hai, **Yufei Guo**\*, Siyuan Cheng, Yunpeng Hai, **Acta Mechanica Solida Sinica 2020**, Corresponding Author.
 - [Direct modifications of tetrahedral meshes](https://www.emerald.com/insight/content/doi/10.1108/EC-12-2019-0573/full/html), **Yufei Guo**, Yongqing Hai, Jianfei Liu, **Engineering Computations 2020**, First Author.
 - [Surface Adaptive Mesh Generation for STL Models Based on Ball-Packing Method](https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=3b5491011cd34af2bb3043a6ef810cec), **Yufei Guo**, Feifei Shang, Jianfei Liu, **Journal of Computer-Aided Design and Computer Graphics 2018**, First Author.
-
+ -->
 # 💬 Invited Talks
-- *2022.08*, I am invited to talk about Spiking Neural Networks at the conference on intelligence and aerospace.
-- *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace.
+<!-- - *2022.08*, I am invited to talk about Spiking Neural Networks at the conference on intelligence and aerospace.
+- *2022.07*, I am invited to talk about Spiking Neural Networks at the conference on mathematics and aerospace. -->
 
 # 🎖 Honors and Awards
-- *2022.09* The National Natural Science Foundation of China 2022.
-- *2017.11* The second prize of Wechat applet application development competition 2017.
-- *2016.10* The first prize of Huawei codecraft 2016.
-- *2014.10* China National Scholarship.  
+- *2019.10* Samsung Scholarship.
+- *2018.06* Outstanding Graduate of University of Electronic Science and Technology of China
+- *2017.10* China National Scholarship.  
 
 # 📖 Educations
 - *2018.09 - Now*, Doctor, Fudan University, Shanghai. 
 - *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu. 
 
 # 💻 Academic Services
-- **Reviewer** of Conferences: AAAI 2022, CVPR 2022, ECCV 2022, etc.
-- **Reviewer** of Journals: Computational Mechanics, Applied Mathematical Modelling, Engineering Computations, etc.
+- **Chairman** of IEEE Fudan University Student Branch and IEEE GRSS Fudan Student Chapter
