@@ -61,7 +61,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Frontiers in Neuroscience</div><img src='images/theequivalenceofCLIF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks]()
+[Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks](https://www.frontiersin.org/articles/10.3389/fnins.2022.857513/full)
 
 **Sijia Lu**\*, Feng Xu\*
   
