@@ -38,6 +38,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉 Happy New Year 🎆🎆🎆!
 - *2022.03*: &nbsp;🎉 One first-authored paper about equivalence between Linear LIF and ReLU-AN model is accepted by Frontier in neuroscience.
 - *2018.09*: &nbsp;🎉 I entered Fudan University to study for a Ph.D.
 - *2018.07*: &nbsp;🎉 I got my Bachelor of Science degree from UESTC.
