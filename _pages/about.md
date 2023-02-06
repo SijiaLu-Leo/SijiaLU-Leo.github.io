@@ -45,7 +45,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
-## 📹 Spiking Neural Network
+## 🎓 Spiking Neural Network
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
