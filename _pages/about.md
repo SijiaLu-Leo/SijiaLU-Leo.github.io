@@ -170,7 +170,7 @@ Yuhang Li\*, **Yufei Guo**\*, Shanghang Zhang, Shikuang Deng, Yongqing Hai, Shi 
 - *2017.10* China National Scholarship.  
 
 # 📖 Educations
-- *2018.09 - Now*, Doctor, Fudan University, Shanghai. 
+- *2018.09 - 2023.07*, Doctor, Fudan University, Shanghai. 
 - *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu. 
 
 # 💻 Academic Services
