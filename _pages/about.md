@@ -74,7 +74,7 @@ I have published more than 100 papers at the top international AI conferences wi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACES-2022</div><img src='images/weights_visulization_with_step-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A brain-inspired unsupervised learning algorithm for SAR Target Classification]()
+[A brain-inspired unsupervised learning algorithm for SAR Target Classification](https://ieeexplore.ieee.org/document/10065164)
 
 **Sijia Lu**\*, Feng Xu\*
   
